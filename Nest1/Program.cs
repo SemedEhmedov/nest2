@@ -22,10 +22,11 @@ namespace Nest1
             {
                 opt.User.RequireUniqueEmail = true;     
                 opt.Password.RequiredLength = 8;
+                opt.SignIn.RequireConfirmedEmail = true;
                 opt.Lockout.AllowedForNewUsers = true;
                 opt.Lockout.MaxFailedAccessAttempts = 5;
                 opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
-            }).AddEntityFrameworkStores<AppDBContext>(); 
+            }).AddEntityFrameworkStores<AppDBContext>().AddDefaultTokenProviders(); 
             builder.Services.AddDbContext<AppDBContext>(opt =>
             {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("default"));

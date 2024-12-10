@@ -1,114 +1,122 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\nest\\",
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\nest2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\controllers\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\controllers\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\abstrcations\\emailservice\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\abstrcations\\emailservice\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\areas\\manage\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\areas\\manage\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\helpers\\email\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\helpers\\email\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\helpers\\email\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\helpers\\email\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\controllers\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\controllers\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\views\\register\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\register\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\viewmodels\\account\\resetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\viewmodels\\account\\resetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\views\\register\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\register\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\views\\register\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\register\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\viewmodels\\account\\forgetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\viewmodels\\account\\forgetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\views\\register\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\register\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\viewmodels\\account\\forgetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\viewmodels\\account\\forgetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\areas\\manage\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\viewmodels\\account\\resetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\viewmodels\\account\\resetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\abstrcations\\emailservice\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\abstrcations\\emailservice\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\areas\\manage\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\areas\\manage\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\helpers\\email\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\helpers\\email\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\helpers\\email\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\helpers\\email\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\views\\register\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\register\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\views\\register\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\register\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\views\\register\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\register\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\areas\\manage\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\areas\\manage\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\helpers\\enums\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\helpers\\enums\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\helpers\\enums\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\areas\\manage\\controllers\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\areas\\manage\\controllers\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\areas\\manage\\controllers\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\views\\register\\registerr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\views\\register\\registerr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\register\\registerr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest\\nest1\\migrations\\20241208113227_addtablesd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\migrations\\20241208113227_addtablesd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\migrations\\20241208113227_addtablesd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\i novbe\\desktop\\nest2\\nest1\\migrations\\20241210083330_sdsadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\migrations\\20241210083330_sdsadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,358 +126,356 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MailService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Services\\MailService.cs",
-              "RelativeDocumentMoniker": "Nest1\\Services\\MailService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Services\\MailService.cs",
-              "RelativeToolTip": "Nest1\\Services\\MailService.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAowCcAAAANAAAAAAAAAA==",
+              "DocumentIndex": 28,
+              "Title": "20241210083330_sdsadas.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Migrations\\20241210083330_sdsadas.cs",
+              "RelativeDocumentMoniker": "Nest1\\Migrations\\20241210083330_sdsadas.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Migrations\\20241210083330_sdsadas.cs",
+              "RelativeToolTip": "Nest1\\Migrations\\20241210083330_sdsadas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T17:59:51.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T08:33:30.148Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IMailService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Abstrcations\\emailservice\\IMailService.cs",
-              "RelativeDocumentMoniker": "Nest1\\Abstrcations\\emailservice\\IMailService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Abstrcations\\emailservice\\IMailService.cs",
-              "RelativeToolTip": "Nest1\\Abstrcations\\emailservice\\IMailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T17:58:24.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MailSettings.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Helpers\\email\\MailSettings.cs",
-              "RelativeDocumentMoniker": "Nest1\\Helpers\\email\\MailSettings.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Helpers\\email\\MailSettings.cs",
-              "RelativeToolTip": "Nest1\\Helpers\\email\\MailSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T17:52:05.504Z",
-              "EditorCaption": ""
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Views\\Register\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Views\\Register\\ConfirmEmail.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Views\\Register\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "Nest1\\Views\\Register\\ConfirmEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T08:22:00.332Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "MailRequest.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Helpers\\email\\MailRequest.cs",
-              "RelativeDocumentMoniker": "Nest1\\Helpers\\email\\MailRequest.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Helpers\\email\\MailRequest.cs",
-              "RelativeToolTip": "Nest1\\Helpers\\email\\MailRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T17:45:25.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "ResetPasswordVM.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\ViewModels\\Account\\ResetPasswordVM.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\ViewModels\\Account\\ResetPasswordVM.cs",
               "RelativeDocumentMoniker": "Nest1\\ViewModels\\Account\\ResetPasswordVM.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\ViewModels\\Account\\ResetPasswordVM.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\ViewModels\\Account\\ResetPasswordVM.cs",
               "RelativeToolTip": "Nest1\\ViewModels\\Account\\ResetPasswordVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T17:21:34.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ResetPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Views\\Register\\ResetPassword.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Views\\Register\\ResetPassword.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Views\\Register\\ResetPassword.cshtml",
-              "RelativeToolTip": "Nest1\\Views\\Register\\ResetPassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T17:17:03.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ForgetPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Views\\Register\\ForgetPassword.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Views\\Register\\ForgetPassword.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Views\\Register\\ForgetPassword.cshtml",
-              "RelativeToolTip": "Nest1\\Views\\Register\\ForgetPassword.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAAAqwDMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T17:08:39.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ForgetPasswordVM.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\ViewModels\\Account\\ForgetPasswordVM.cs",
-              "RelativeDocumentMoniker": "Nest1\\ViewModels\\Account\\ForgetPasswordVM.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\ViewModels\\Account\\ForgetPasswordVM.cs",
-              "RelativeToolTip": "Nest1\\ViewModels\\Account\\ForgetPasswordVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T17:06:05.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Controllers\\Register.cs",
-              "RelativeDocumentMoniker": "Nest1\\Controllers\\Register.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Controllers\\Register.cs",
-              "RelativeToolTip": "Nest1\\Controllers\\Register.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJAAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T11:45:52.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Nest1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEoBAAAAAAAAAAAwwFsBAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T11:36:14.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Program.cs",
-              "RelativeDocumentMoniker": "Nest1\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Program.cs",
-              "RelativeToolTip": "Nest1\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T11:29:54.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Areas\\Manage\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Areas\\Manage\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Nest1\\Areas\\Manage\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAowEkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T16:07:22.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Views\\Register\\Login.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Views\\Register\\Login.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Views\\Register\\Login.cshtml",
-              "RelativeToolTip": "Nest1\\Views\\Register\\Login.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAswDEAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T11:54:26.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T17:21:34.765Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Views\\Register\\Index.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Views\\Register\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Views\\Register\\Index.cshtml",
-              "RelativeToolTip": "Nest1\\Views\\Register\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Views\\Register\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Views\\Register\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Views\\Register\\ResetPassword.cshtml",
+              "RelativeToolTip": "Nest1\\Views\\Register\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T15:15:30.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T17:17:03.872Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "LoginVM.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\ViewModels\\Account\\LoginVM.cs",
-              "RelativeDocumentMoniker": "Nest1\\ViewModels\\Account\\LoginVM.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\ViewModels\\Account\\LoginVM.cs",
-              "RelativeToolTip": "Nest1\\ViewModels\\Account\\LoginVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T11:51:49.689Z",
-              "EditorCaption": ""
+              "Title": "ForgetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Views\\Register\\ForgetPassword.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Views\\Register\\ForgetPassword.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Views\\Register\\ForgetPassword.cshtml",
+              "RelativeToolTip": "Nest1\\Views\\Register\\ForgetPassword.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T17:08:39.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "ForgetPasswordVM.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\ViewModels\\Account\\ForgetPasswordVM.cs",
+              "RelativeDocumentMoniker": "Nest1\\ViewModels\\Account\\ForgetPasswordVM.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\ViewModels\\Account\\ForgetPasswordVM.cs",
+              "RelativeToolTip": "Nest1\\ViewModels\\Account\\ForgetPasswordVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:06:05.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Controllers\\Register.cs",
+              "RelativeDocumentMoniker": "Nest1\\Controllers\\Register.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Controllers\\Register.cs",
+              "RelativeToolTip": "Nest1\\Controllers\\Register.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA2wIkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:45:52.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Nest1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAwwFsBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T11:36:14.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Program.cs",
+              "RelativeDocumentMoniker": "Nest1\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Program.cs",
+              "RelativeToolTip": "Nest1\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:29:54.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\appsettings.json",
               "RelativeDocumentMoniker": "Nest1\\appsettings.json",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\appsettings.json",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\appsettings.json",
               "RelativeToolTip": "Nest1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-08T11:29:55.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RegisterVm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\ViewModels\\Account\\RegisterVm.cs",
-              "RelativeDocumentMoniker": "Nest1\\ViewModels\\Account\\RegisterVm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\ViewModels\\Account\\RegisterVm.cs",
-              "RelativeToolTip": "Nest1\\ViewModels\\Account\\RegisterVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Services\\MailService.cs",
+              "RelativeDocumentMoniker": "Nest1\\Services\\MailService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Services\\MailService.cs",
+              "RelativeToolTip": "Nest1\\Services\\MailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T11:53:39.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T17:59:51.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\DAL\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "Nest1\\DAL\\AppDBContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\DAL\\AppDBContext.cs",
-              "RelativeToolTip": "Nest1\\DAL\\AppDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\ViewModels\\Account\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "Nest1\\ViewModels\\Account\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\ViewModels\\Account\\RegisterVm.cs",
+              "RelativeToolTip": "Nest1\\ViewModels\\Account\\RegisterVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T16:26:59.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T11:53:39.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Nest1\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "Nest1\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:51:49.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MailRequest.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Helpers\\email\\MailRequest.cs",
+              "RelativeDocumentMoniker": "Nest1\\Helpers\\email\\MailRequest.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Helpers\\email\\MailRequest.cs",
+              "RelativeToolTip": "Nest1\\Helpers\\email\\MailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:45:25.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Helpers\\email\\MailSettings.cs",
+              "RelativeDocumentMoniker": "Nest1\\Helpers\\email\\MailSettings.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Helpers\\email\\MailSettings.cs",
+              "RelativeToolTip": "Nest1\\Helpers\\email\\MailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:52:05.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Abstrcations\\emailservice\\IMailService.cs",
+              "RelativeDocumentMoniker": "Nest1\\Abstrcations\\emailservice\\IMailService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Abstrcations\\emailservice\\IMailService.cs",
+              "RelativeToolTip": "Nest1\\Abstrcations\\emailservice\\IMailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:58:24.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Nest1\\Areas\\Manage\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowEkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:07:22.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Views\\Register\\Login.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Views\\Register\\Login.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Views\\Register\\Login.cshtml",
+              "RelativeToolTip": "Nest1\\Views\\Register\\Login.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswDEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T11:54:26.566Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "ManageController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Areas\\Manage\\Controllers\\ManageController.cs",
-              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Controllers\\ManageController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Areas\\Manage\\Controllers\\ManageController.cs",
-              "RelativeToolTip": "Nest1\\Areas\\Manage\\Controllers\\ManageController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Views\\Register\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "Nest1\\Views\\Register\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T15:15:30.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\DAL\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Nest1\\DAL\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\DAL\\AppDBContext.cs",
+              "RelativeToolTip": "Nest1\\DAL\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T16:36:49.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T16:26:59.812Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Class.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Helpers\\enums\\Class.cs",
-              "RelativeDocumentMoniker": "Nest1\\Helpers\\enums\\Class.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Helpers\\enums\\Class.cs",
-              "RelativeToolTip": "Nest1\\Helpers\\enums\\Class.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Title": "ManageController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\ManageController.cs",
+              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Controllers\\ManageController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\ManageController.cs",
+              "RelativeToolTip": "Nest1\\Areas\\Manage\\Controllers\\ManageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T16:42:38.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T16:36:49.437Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "DashBoard.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Areas\\Manage\\Controllers\\DashBoard.cs",
-              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Controllers\\DashBoard.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Areas\\Manage\\Controllers\\DashBoard.cs",
-              "RelativeToolTip": "Nest1\\Areas\\Manage\\Controllers\\DashBoard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Helpers\\enums\\Class.cs",
+              "RelativeDocumentMoniker": "Nest1\\Helpers\\enums\\Class.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Helpers\\enums\\Class.cs",
+              "RelativeToolTip": "Nest1\\Helpers\\enums\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T16:07:20.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Nest1\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T15:15:25.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Nest1\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T15:15:26.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T16:42:38.16Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Registerr.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Views\\Register\\Registerr.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Views\\Register\\Registerr.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Views\\Register\\Registerr.cshtml",
-              "RelativeToolTip": "Nest1\\Views\\Register\\Registerr.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T15:43:55.782Z",
-              "EditorCaption": ""
+              "Title": "DashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\DashBoard.cs",
+              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Controllers\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\DashBoard.cs",
+              "RelativeToolTip": "Nest1\\Areas\\Manage\\Controllers\\DashBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:07:20.784Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "Nest1\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "Nest1\\ScaffoldingReadMe.txt",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Nest1\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-08T11:30:08.416Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T15:15:25.087Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "Nest1\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Models\\AppUser.cs",
-              "RelativeToolTip": "Nest1\\Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T09:34:28.246Z",
-              "EditorCaption": ""
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Nest1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T15:15:26.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Registerr.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Views\\Register\\Registerr.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Views\\Register\\Registerr.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Views\\Register\\Registerr.cshtml",
+              "RelativeToolTip": "Nest1\\Views\\Register\\Registerr.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T15:43:55.782Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Nest1\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Nest1\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-08T11:30:08.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Nest1\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Models\\AppUser.cs",
+              "RelativeToolTip": "Nest1\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:34:28.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "20241208113227_addtablesd.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Migrations\\20241208113227_addtablesd.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Migrations\\20241208113227_addtablesd.cs",
               "RelativeDocumentMoniker": "Nest1\\Migrations\\20241208113227_addtablesd.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest\\Nest1\\Migrations\\20241208113227_addtablesd.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\Migrations\\20241208113227_addtablesd.cs",
               "RelativeToolTip": "Nest1\\Migrations\\20241208113227_addtablesd.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T11:32:27.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T11:32:27.218Z"
             }
           ]
         }

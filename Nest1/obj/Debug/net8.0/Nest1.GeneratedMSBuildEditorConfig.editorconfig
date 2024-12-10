@@ -17,77 +17,79 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Nest1
 build_property.RootNamespace = Nest1
-build_property.ProjectDir = C:\Users\user\Desktop\nest\Nest1\
+build_property.ProjectDir = C:\Users\I Novbe\Desktop\nest2\Nest1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\nest\Nest1
+build_property.MSBuildProjectDirectory = C:\Users\I Novbe\Desktop\nest2\Nest1
 build_property._RazorSourceGeneratorDebug = 
-build_property.EffectiveAnalysisLevelStyle = 8.0
-build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/user/Desktop/nest/Nest1/Areas/Manage/Views/DashBoard/Index.cshtml]
+[C:/Users/I Novbe/Desktop/nest2/Nest1/Areas/Manage/Views/DashBoard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXERhc2hCb2FyZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/nest/Nest1/Areas/Manage/Views/Product/Create.cshtml]
+[C:/Users/I Novbe/Desktop/nest2/Nest1/Areas/Manage/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFByb2R1Y3RcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/nest/Nest1/Areas/Manage/Views/Product/Index.cshtml]
+[C:/Users/I Novbe/Desktop/nest2/Nest1/Areas/Manage/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFByb2R1Y3RcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/nest/Nest1/Areas/Manage/Views/Product/Update.cshtml]
+[C:/Users/I Novbe/Desktop/nest2/Nest1/Areas/Manage/Views/Product/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFByb2R1Y3RcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/nest/Nest1/Areas/Manage/Views/shared/_Layout.cshtml]
+[C:/Users/I Novbe/Desktop/nest2/Nest1/Areas/Manage/Views/shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXHNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/nest/Nest1/Areas/Manage/Views/_ViewImports.cshtml]
+[C:/Users/I Novbe/Desktop/nest2/Nest1/Areas/Manage/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/nest/Nest1/Areas/Manage/Views/_ViewStart.cshtml]
+[C:/Users/I Novbe/Desktop/nest2/Nest1/Areas/Manage/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/nest/Nest1/Views/Home/Index.cshtml]
+[C:/Users/I Novbe/Desktop/nest2/Nest1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/nest/Nest1/Views/Register/ForgetPassword.cshtml]
+[C:/Users/I Novbe/Desktop/nest2/Nest1/Views/Register/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcQ29uZmlybUVtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/I Novbe/Desktop/nest2/Nest1/Views/Register/ForgetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcRm9yZ2V0UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/nest/Nest1/Views/Register/Index.cshtml]
+[C:/Users/I Novbe/Desktop/nest2/Nest1/Views/Register/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/nest/Nest1/Views/Register/Login.cshtml]
+[C:/Users/I Novbe/Desktop/nest2/Nest1/Views/Register/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/nest/Nest1/Views/Register/Registerr.cshtml]
+[C:/Users/I Novbe/Desktop/nest2/Nest1/Views/Register/Registerr.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcUmVnaXN0ZXJyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/nest/Nest1/Views/Register/ResetPassword.cshtml]
+[C:/Users/I Novbe/Desktop/nest2/Nest1/Views/Register/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcUmVzZXRQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/nest/Nest1/Views/_ViewImports.cshtml]
+[C:/Users/I Novbe/Desktop/nest2/Nest1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/nest/Nest1/Views/_ViewStart.cshtml]
+[C:/Users/I Novbe/Desktop/nest2/Nest1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/nest/Nest1/Views/Shared/_Layout.cshtml]
+[C:/Users/I Novbe/Desktop/nest2/Nest1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-f89c1s1nf5

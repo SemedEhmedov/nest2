@@ -6,6 +6,7 @@ using Nest1.Helpers.email;
 using Nest1.Helpers.enums;
 using Nest1.Models;
 using Nest1.ViewModels.Account;
+using Microsoft.EntityFrameworkCore;
 
 namespace Nest1.Controllers
 {
@@ -38,12 +39,20 @@ namespace Nest1.Controllers
             {
                 return View();
             }
+
             JsonResult jsonResult = new JsonResult(vm);
             AppUser User = new AppUser();
             {
                 User.UserName = vm.UserName;
                 User.Email = vm.Email;
             }
+            var token = await _userManager.GenerateEmailConfirmationTokenAsync(User);
+            object userstat = new
+            {
+                userId = User.Id,
+                token = token
+            };
+            var link = Url.Action("Login", "Register", userstat, HttpContext.Request.Scheme);
             var result = await _userManager.CreateAsync(User,vm.Password);
             if (!result.Succeeded)
             {
@@ -54,9 +63,17 @@ namespace Nest1.Controllers
                 return View();
             }
             await _userManager.AddToRoleAsync(User, UserRoles.Member.ToString());
+            MailRequest mailRequest = new MailRequest()
+            {
+                ToEmail = vm.Email,
+                Subject = "confirm email",
+                Body = $"<a href ='{link}'> Confirm Email<a/>"
+            };
+            await _mailService.SendEmailAsync(mailRequest);
+           
 
 
-            return RedirectToAction(nameof(Login));
+            return RedirectToAction(nameof(ConfirmEmail),User);
         }
         public async Task<IActionResult> SignOut()
         {
@@ -181,6 +198,12 @@ namespace Nest1.Controllers
                     return View(vm);
             }
 
+            return RedirectToAction(nameof(Login));
+        }
+        public async Task<IActionResult> ConfirmEmail(AppUser appUser)
+        {
+          AppUser user = await _userManager.FindByEmailAsync(appUser.Email);
+            user.EmailConfirmed = true;
             return RedirectToAction(nameof(Login));
         }
     }
