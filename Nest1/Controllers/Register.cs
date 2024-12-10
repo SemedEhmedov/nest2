@@ -70,8 +70,8 @@ namespace Nest1.Controllers
                 Body = $"<a href ='{link}'> Confirm Email<a/>"
             };
             await _mailService.SendEmailAsync(mailRequest);
-           
 
+            Console.WriteLine(link);
 
             return RedirectToAction(nameof(ConfirmEmail),User);
         }
@@ -204,6 +204,7 @@ namespace Nest1.Controllers
         {
           AppUser user = await _userManager.FindByEmailAsync(appUser.Email);
             user.EmailConfirmed = true;
+            _context.SaveChanges();
             return RedirectToAction(nameof(Login));
         }
     }
