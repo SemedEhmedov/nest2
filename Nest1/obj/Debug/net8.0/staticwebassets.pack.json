@@ -73,6 +73,10 @@
       "PackagePath": "staticwebassets\\assets\\css\\plugins\\slider-range.css"
     },
     {
+      "Id": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\wwwroot\\assets\\css\\plugins\\tongue.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\tongue.css"
+    },
+    {
       "Id": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\wwwroot\\assets\\css\\vendors\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\vendors\\bootstrap.min.css"
     },

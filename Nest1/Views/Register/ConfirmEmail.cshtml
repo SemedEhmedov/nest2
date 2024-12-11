@@ -1,1 +1,19 @@
-﻿<p> oglan</p>
+﻿
+@model ConfirmEmailVm
+
+<h2>Confirm Your Email</h2>
+
+<p>Please enter the confirmation code sent to your email.</p>
+
+<form method="post">
+
+    <div class="form-group">
+        <label asp-for="ConfirmKey">Confirmation Code</label>
+        <input asp-for="ConfirmKey" class="form-control" placeholder="Enter confirmation code" required />
+        <span asp-validation-for="ConfirmKey" style="color: red"></span>
+
+    </div>
+
+
+    <button type="submit" class="btn btn-primary mt-3">Confirm</button>
+</form>

@@ -52,7 +52,7 @@ namespace Nest1.Controllers
                 userId = User.Id,
                 token = token
             };
-            var link = Url.Action("Login", "Register", userstat, HttpContext.Request.Scheme);
+            var link = Url.Action("ConfirmEmail", "Register", userstat, HttpContext.Request.Scheme);
             var result = await _userManager.CreateAsync(User,vm.Password);
             if (!result.Succeeded)
             {
@@ -63,17 +63,21 @@ namespace Nest1.Controllers
                 return View();
             }
             await _userManager.AddToRoleAsync(User, UserRoles.Member.ToString());
+
+            string confirmKey = Guid.NewGuid().ToString().Substring(0, 6).ToUpper();
+            User.ConfirmationKey = confirmKey;
+            await _context.SaveChangesAsync();
             MailRequest mailRequest = new MailRequest()
             {
                 ToEmail = vm.Email,
                 Subject = "confirm email",
-                Body = $"<a href ='{link}'> Confirm Email<a/>"
+                Body = $"<h1>Your security code is: <br> {confirmKey}</h1><a href ='{link}'> Confirm Email<a/>"
             };
             await _mailService.SendEmailAsync(mailRequest);
 
             Console.WriteLine(link);
 
-            return RedirectToAction(nameof(ConfirmEmail),User);
+            return RedirectToAction(nameof(Login));
         }
         public async Task<IActionResult> SignOut()
         {
@@ -200,12 +204,36 @@ namespace Nest1.Controllers
 
             return RedirectToAction(nameof(Login));
         }
-        public async Task<IActionResult> ConfirmEmail(AppUser appUser)
+
+        public IActionResult ConfirmEmail()
         {
-          AppUser user = await _userManager.FindByEmailAsync(appUser.Email);
-            user.EmailConfirmed = true;
-            _context.SaveChanges();
-            return RedirectToAction(nameof(Login));
+            return View();
         }
+
+        [HttpPost]
+        public async Task<IActionResult> ConfirmEmail(string userid, string token, ConfirmEmailVm vm)
+        {
+            if(userid == null) return BadRequest(); 
+
+            var user = await _userManager.FindByIdAsync(userid);
+
+            string key = vm.ConfirmKey;
+
+
+            if (user == null || user.ConfirmationKey != key)
+            {
+                ModelState.AddModelError("ConfirmKey", "Invalid confirmation key.");
+                return View(vm);
+            }
+
+            user.EmailConfirmed = true;
+            user.ConfirmationKey = null;
+            await _userManager.UpdateAsync(user);
+
+            return RedirectToAction("Login");
+        }
+
+
+        
     }
 }

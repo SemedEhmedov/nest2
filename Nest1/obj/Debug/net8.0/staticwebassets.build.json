@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fECGJ9kPkGKgIdPcO7mEnUJstogyAZiawjhTlsLrIpQ=",
+  "Hash": "GfQ+npUdlp8rY2jDaQXc3HTcf9s+Zc/7tx7RVDLKQ0g=",
   "Source": "Nest1",
   "BasePath": "_content/Nest1",
   "Mode": "Default",
@@ -243,6 +243,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\plugins\\slider-range.css"
+    },
+    {
+      "Identity": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\wwwroot\\assets\\css\\plugins\\tongue.css",
+      "SourceId": "Nest1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\wwwroot\\",
+      "BasePath": "_content/Nest1",
+      "RelativePath": "assets/css/plugins/tongue.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\plugins\\tongue.css"
     },
     {
       "Identity": "C:\\Users\\I Novbe\\Desktop\\nest2\\Nest1\\wwwroot\\assets\\css\\vendors\\bootstrap.min.css",
