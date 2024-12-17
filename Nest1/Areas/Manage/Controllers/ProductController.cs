@@ -12,9 +12,9 @@ namespace Nest1.Areas.Manage.Controllers
         AppDBContext context;
         private readonly IWebHostEnvironment env;
 
-        public ProductController(AppDBContext appDBcontext, IWebHostEnvironment env)
+        public ProductController(AppDBContext appdbcontext, IWebHostEnvironment env)
         {
-            context = appDBcontext;
+            context = appdbcontext;
             this.env = env;
         }
 
@@ -110,45 +110,153 @@ namespace Nest1.Areas.Manage.Controllers
             await context.SaveChangesAsync();
             return RedirectToAction("Index");
         }
-        public IActionResult Update(int id)
+        public async Task<IActionResult> Update(int? id)
         {
-            ViewBag.Categories = context.Categories.ToList();
             ViewBag.Tags = context.Tags.ToList();
+
             if (id == null)
             {
-                return View();
-            }
-            var product = context.Products.FirstOrDefault(s => s.Id == id);
-            if (product == null)
-            {
                 return NotFound();
             }
-            return View(product);
+            var product = await context.Products.Include(x => x.Category)
+                .Include(p => p.ProductImages)
+                .Include(c => c.TagProducts)
+                .ThenInclude(z => z.Tag)
+                .FirstOrDefaultAsync(g => g.Id == id);
+            ViewBag.Categories = context.Categories.ToList();
+            UpdateProduct Vm = new UpdateProduct()
+            {
+                Name = product.Name,
+                Price = product.Price,
+                Description = product.Description,
+                CategoryId = product.CategoryId,
+                TagIds = new List<int>(),
+                Images = new List<IFormFile>()
+
+            };
+            foreach (var item in product.TagProducts)
+            {
+                Vm.TagIds.Add(item.Id);
+            }
+            return View(Vm);
         }
         [HttpPost]
-        public IActionResult Update(UpdateProduct product)
+        public async Task<IActionResult> Update(UpdateProduct vm)
         {
-            ViewBag.Categories = context.Categories.ToList();
-            ViewBag.Tags = context.Tags.ToList();
-            if (!ModelState.IsValid)
-            {
-                return View();
-            }
-            var oldproduct = context.Products.Include(x=>x.ProductImages).FirstOrDefault(s => s.Id == product.Id);
-            if (oldproduct == null)
+            if (vm.Id == null)
             {
                 return NotFound();
             }
-            oldproduct.Name = product.Name;
-            oldproduct.Description = product.Description;
-            oldproduct.Price = product.Price;
-            oldproduct.CategoryId = product.CategoryId;
-            oldproduct.ProductImages.FirstOrDefault(x=>x.Primary).ImgUrl = product.File.Upload(env.WebRootPath, "Upload\\Product");
-            foreach(var item in oldproduct.ProductImages.FirstOrDefault(x => !x.Primary).ImgUrl)
+            if (!ModelState.IsValid)
             {
-                //item = product.Images.Upload(env.WebRootPath, "Upload\\Product");
+                return View(vm);
             }
-            context.SaveChanges();
+            Product oldProduct = context.Products.Include(p => p.TagProducts).Include(p => p.ProductImages).FirstOrDefault(x => x.Id == vm.Id);
+            if (oldProduct == null)
+            {
+                return NotFound();
+            }
+            if (vm.CategoryId != null)
+            {
+                if (!context.Categories.Any(c => c.Id == vm.CategoryId))
+                {
+                    ModelState.AddModelError("CategoryId", $"{vm.CategoryId}-idli category yoxdur");
+                    return View();
+                }
+            }
+
+
+            if (vm.TagIds != null)
+            {
+                context.TagProducts.RemoveRange(oldProduct.TagProducts);
+
+                foreach (var item in vm.TagIds)
+                {
+                    await context.TagProducts.AddAsync(new TagProduct()
+                    {
+                        ProductId = oldProduct.Id,
+                        TagId = item
+                    });
+
+                }
+
+            }
+
+
+            if (vm.File != null)
+            {
+                if (!vm.File.ContentType.Contains("image/"))
+                {
+                    ModelState.AddModelError("MainPhoto", "Sekil daxil edin");
+                    return View(vm);
+                }
+                if (vm.File.Length > 3000000)
+                {
+                    ModelState.AddModelError("MainPhoto", "Max 2mb ola biler");
+                    return View(vm);
+                }
+
+                FileExtension.DeleteFile(env.WebRootPath, "Upload/Product", oldProduct.ProductImages.FirstOrDefault(x => x.Primary).ImgUrl);
+                context.ProductImages.Remove(oldProduct.ProductImages.FirstOrDefault(x => x.Primary));
+
+                oldProduct.ProductImages.Add(new()
+                {
+                    Primary = true,
+                    ImgUrl = vm.File.Upload(env.WebRootPath, "Upload/Product")
+                });
+
+
+
+            }
+
+            if (vm.Images != null)
+            {
+                var removeImgs = new List<ProductImage>();
+                foreach (var imgUrl in oldProduct.ProductImages.Where(x => x.Primary == false))
+                {
+                    if (!vm.Images.Any(x => x.ToString() == imgUrl.ImgUrl))
+                    {
+                        FileExtension.DeleteFile(env.WebRootPath, "Upload/Product", imgUrl.ImgUrl);
+                        context.ProductImages.Remove(imgUrl);
+                    }
+
+                }
+            }
+            else
+            {
+                foreach (var item in oldProduct.ProductImages.Where(x => !x.Primary))
+                {
+                    FileExtension.DeleteFile(env.WebRootPath, "Upload/Product", item.ImgUrl);
+                    context.ProductImages.Remove(item);
+                }
+            }
+            if (vm.Images != null)
+            {
+                foreach (var image in vm.Images)
+                {
+                    if (!image.ContentType.Contains("image/"))
+                    {
+                        ModelState.AddModelError("Photos", "Sekil yoxdur");
+                        return View();
+                    }
+                    if (image.Length > 2000000)
+                    {
+                        ModelState.AddModelError("Photos", "Max 2mb ola biler");
+                        return View();
+                    }
+                    oldProduct.ProductImages.Add(new()
+                    {
+                        Primary = false,
+                        ImgUrl = image.Upload(env.WebRootPath, "Upload/Product")
+                    });
+                }
+            }
+            oldProduct.Name = vm.Name;
+            oldProduct.Price = vm.Price;
+            oldProduct.Description = vm.Description;
+            oldProduct.CategoryId = vm.CategoryId;
+            await context.SaveChangesAsync();
+
             return RedirectToAction(nameof(Index));
         }
     }

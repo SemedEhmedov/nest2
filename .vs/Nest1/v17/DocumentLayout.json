@@ -3,8 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\nest2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\views\\home\\components\\shop\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\home\\components\\shop\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\views\\home\\components\\product\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\home\\components\\product\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\areas\\manage\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\areas\\manage\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\areas\\manage\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\areas\\manage\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\areas\\manage\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\areas\\manage\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\areas\\viewmodels\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\areas\\viewmodels\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\areas\\manage\\views\\tag\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\areas\\manage\\views\\tag\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\viewcomponents\\basketviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\viewcomponents\\basketviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\areas\\manage\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\areas\\manage\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\areas\\manage\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\areas\\manage\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\areas\\manage\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\areas\\manage\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -45,22 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\areas\\manage\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\areas\\manage\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\areas\\manage\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\areas\\manage\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\areas\\manage\\views\\tag\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\areas\\manage\\views\\tag\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\areas\\manage\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\areas\\manage\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\areas\\manage\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\areas\\manage\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\areas\\viewmodels\\updatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,10 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -127,20 +155,8 @@
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\views\\home\\components\\product\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\home\\components\\product\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\views\\home\\components\\shop\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\home\\components\\shop\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\viewcomponents\\shopviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -163,10 +179,6 @@
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\viewmodels\\account\\confirmemailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -177,10 +189,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\viewcomponents\\productviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\viewcomponents\\productviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -207,16 +215,8 @@
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\models\\tagproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\viewmodels\\basket\\cartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\viewmodels\\basket\\cartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\areas\\viewmodels\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|solutionrelative:nest1\\areas\\viewmodels\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B0D9D9B-A389-43F7-BC09-59B08E87E730}|Nest1\\Nest1.csproj|c:\\users\\user\\desktop\\nest2\\nest1\\areas\\viewmodels\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -358,11 +358,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Nest1\\Areas\\Manage\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAqwIsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:07:22.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateProduct.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\ViewModels\\UpdateProduct.cs",
+              "RelativeDocumentMoniker": "Nest1\\Areas\\ViewModels\\UpdateProduct.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\ViewModels\\UpdateProduct.cs",
+              "RelativeToolTip": "Nest1\\Areas\\ViewModels\\UpdateProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:19:45.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Nest1\\Areas\\Manage\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T15:19:10.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Tag\\Update.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Views\\Tag\\Update.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Tag\\Update.cshtml",
+              "RelativeToolTip": "Nest1\\Areas\\Manage\\Views\\Tag\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T15:01:59.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Category\\Update.cshtml",
               "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Views\\Category\\Update.cshtml",
@@ -370,132 +422,116 @@
               "RelativeToolTip": "Nest1\\Areas\\Manage\\Views\\Category\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T15:14:21.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "Nest1\\Areas\\Manage\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T15:13:23.427Z"
+              "WhenOpened": "2024-12-17T15:14:21.941Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "Nest1\\Areas\\Manage\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T15:12:41.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Nest1\\Areas\\Manage\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T14:42:15.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TagController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\TagController.cs",
-              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Controllers\\TagController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\TagController.cs",
-              "RelativeToolTip": "Nest1\\Areas\\Manage\\Controllers\\TagController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T14:41:48.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Nest1\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Nest1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAI8DAAAAAAAAAAAiwJ0DAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAKoDAAAAAAAAAAAAwLkDAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-08T11:36:14.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Views\\shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\shared\\_Layout.cshtml",
-              "RelativeToolTip": "Nest1\\Areas\\Manage\\Views\\shared\\_Layout.cshtml",
-              "ViewState": "AgIAACAAAAAAAAAAAAAjwFYAAAARAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Nest1\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD4AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T15:15:22.484Z"
+              "WhenOpened": "2024-12-16T18:25:24.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Nest1\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Nest1\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAmwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:04:04.282Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Nest1\\Areas\\Manage\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Nest1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEkOAAAAAAAAAAAAAC0PAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T15:56:53.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "Nest1\\Areas\\Manage\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T15:16:20.108Z"
+              "WhenOpened": "2024-12-17T04:52:41.117Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Tag\\Index.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Views\\Tag\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Tag\\Index.cshtml",
-              "RelativeToolTip": "Nest1\\Areas\\Manage\\Views\\Tag\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Home\\Components\\Product\\Default.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Views\\Home\\Components\\Product\\Default.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Home\\Components\\Product\\Default.cshtml",
+              "RelativeToolTip": "Nest1\\Views\\Home\\Components\\Product\\Default.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAjwDEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T14:45:14.092Z"
+              "WhenOpened": "2024-12-17T05:49:03.233Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Nest1\\Areas\\Manage\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAATAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Home\\Components\\Shop\\Default.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Views\\Home\\Components\\Shop\\Default.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Home\\Components\\Shop\\Default.cshtml",
+              "RelativeToolTip": "Nest1\\Views\\Home\\Components\\Shop\\Default.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:42:57.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Program.cs",
+              "RelativeDocumentMoniker": "Nest1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Program.cs",
+              "RelativeToolTip": "Nest1\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T16:07:22.656Z"
+              "WhenOpened": "2024-12-08T11:29:54.644Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Nest1\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAHUBAAAAAAAAAAAIwJABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:02:35.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Tag\\Create.cshtml",
               "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Views\\Tag\\Create.cshtml",
@@ -507,31 +543,116 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Product\\Update.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Views\\Product\\Update.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Product\\Update.cshtml",
-              "RelativeToolTip": "Nest1\\Areas\\Manage\\Views\\Product\\Update.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAADwvyYAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Tag\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Views\\Tag\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Tag\\Index.cshtml",
+              "RelativeToolTip": "Nest1\\Areas\\Manage\\Views\\Tag\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T15:19:10.419Z"
+              "WhenOpened": "2024-12-17T14:45:14.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Nest1\\Areas\\Manage\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T15:16:20.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Nest1\\Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T15:56:53.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Views\\shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\shared\\_Layout.cshtml",
+              "RelativeToolTip": "Nest1\\Areas\\Manage\\Views\\shared\\_Layout.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAjwFYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T15:15:22.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TagController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\TagController.cs",
+              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Controllers\\TagController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\TagController.cs",
+              "RelativeToolTip": "Nest1\\Areas\\Manage\\Controllers\\TagController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:41:48.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Nest1\\Areas\\Manage\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:42:15.654Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "Nest1\\Areas\\Manage\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T14:42:37.382Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Nest1\\Areas\\Manage\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T15:12:41.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Nest1\\Areas\\Manage\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T15:13:23.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BasketViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\ViewComponents\\BasketViewComponent.cs",
+              "RelativeDocumentMoniker": "Nest1\\ViewComponents\\BasketViewComponent.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\ViewComponents\\BasketViewComponent.cs",
+              "RelativeToolTip": "Nest1\\ViewComponents\\BasketViewComponent.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCAAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:56:20.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "UpdateCategory.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\ViewModels\\UpdateCategory.cs",
               "RelativeDocumentMoniker": "Nest1\\Areas\\ViewModels\\UpdateCategory.cs",
@@ -543,7 +664,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "CreateCategory.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\ViewModels\\CreateCategory.cs",
               "RelativeDocumentMoniker": "Nest1\\Areas\\ViewModels\\CreateCategory.cs",
@@ -555,19 +676,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Tag\\Update.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Views\\Tag\\Update.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Views\\Tag\\Update.cshtml",
-              "RelativeToolTip": "Nest1\\Areas\\Manage\\Views\\Tag\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T15:01:59.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Nest1\\Models\\Category.cs",
@@ -591,7 +700,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Nest1\\Controllers\\AccountController.cs",
@@ -603,7 +712,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "CreateTag.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\ViewModels\\CreateTag.cs",
               "RelativeDocumentMoniker": "Nest1\\Areas\\ViewModels\\CreateTag.cs",
@@ -615,7 +724,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "CookieItemVm.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\ViewModels\\Basket\\CookieItemVm.cs",
               "RelativeDocumentMoniker": "Nest1\\ViewModels\\Basket\\CookieItemVm.cs",
@@ -627,19 +736,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "Nest1\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Controllers\\CartController.cs",
-              "RelativeToolTip": "Nest1\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T18:04:04.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Models\\Tag.cs",
               "RelativeDocumentMoniker": "Nest1\\Models\\Tag.cs",
@@ -651,7 +748,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "UpdateTag.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\ViewModels\\UpdateTag.cs",
               "RelativeDocumentMoniker": "Nest1\\Areas\\ViewModels\\UpdateTag.cs",
@@ -663,7 +760,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "ManageController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\ManageController.cs",
               "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Controllers\\ManageController.cs",
@@ -675,7 +772,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "DashBoard.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\Manage\\Controllers\\DashBoard.cs",
               "RelativeDocumentMoniker": "Nest1\\Areas\\Manage\\Controllers\\DashBoard.cs",
@@ -687,7 +784,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "Slider.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Models\\Slider.cs",
               "RelativeDocumentMoniker": "Nest1\\Models\\Slider.cs",
@@ -699,7 +796,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "Register.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Controllers\\Register.cs",
               "RelativeDocumentMoniker": "Nest1\\Controllers\\Register.cs",
@@ -711,7 +808,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Home\\Detail.cshtml",
               "RelativeDocumentMoniker": "Nest1\\Views\\Home\\Detail.cshtml",
@@ -735,7 +832,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 42,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\ViewModels\\Account\\LoginVM.cs",
               "RelativeDocumentMoniker": "Nest1\\ViewModels\\Account\\LoginVM.cs",
@@ -747,7 +844,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "ConfirmEmail.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Register\\ConfirmEmail.cshtml",
               "RelativeDocumentMoniker": "Nest1\\Views\\Register\\ConfirmEmail.cshtml",
@@ -759,7 +856,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\appsettings.json",
               "RelativeDocumentMoniker": "Nest1\\appsettings.json",
@@ -771,7 +868,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "ShopController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "Nest1\\Controllers\\ShopController.cs",
@@ -783,19 +880,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Home\\Components\\Product\\Default.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Views\\Home\\Components\\Product\\Default.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Home\\Components\\Product\\Default.cshtml",
-              "RelativeToolTip": "Nest1\\Views\\Home\\Components\\Product\\Default.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T05:49:03.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "AppDBContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\DAL\\AppDBContext.cs",
               "RelativeDocumentMoniker": "Nest1\\DAL\\AppDBContext.cs",
@@ -807,7 +892,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 43,
               "Title": "ConfirmEmailVm.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\ViewModels\\Account\\ConfirmEmailVm.cs",
               "RelativeDocumentMoniker": "Nest1\\ViewModels\\Account\\ConfirmEmailVm.cs",
@@ -819,7 +904,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Nest1\\Controllers\\HomeController.cs",
@@ -831,31 +916,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Home\\Components\\Shop\\Default.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Views\\Home\\Components\\Shop\\Default.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Home\\Components\\Shop\\Default.cshtml",
-              "RelativeToolTip": "Nest1\\Views\\Home\\Components\\Shop\\Default.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T08:42:57.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Shop\\Index.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Views\\Shop\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Shop\\Index.cshtml",
-              "RelativeToolTip": "Nest1\\Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T08:02:35.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "ShopViewComponent.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\ViewComponents\\ShopViewComponent.cs",
               "RelativeDocumentMoniker": "Nest1\\ViewComponents\\ShopViewComponent.cs",
@@ -867,19 +928,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Nest1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAJ0OAAAAAAAAAAAAAC0PAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T04:52:41.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "LayoutService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Services\\LayoutService.cs",
               "RelativeDocumentMoniker": "Nest1\\Services\\LayoutService.cs",
@@ -891,7 +940,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "ProductViewComponent.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\ViewComponents\\ProductViewComponent.cs",
               "RelativeDocumentMoniker": "Nest1\\ViewComponents\\ProductViewComponent.cs",
@@ -903,7 +952,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Nest1\\Views\\_ViewImports.cshtml",
@@ -915,7 +964,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Nest1\\Models\\Product.cs",
@@ -927,7 +976,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "ProductImage.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Models\\ProductImage.cs",
               "RelativeDocumentMoniker": "Nest1\\Models\\ProductImage.cs",
@@ -939,7 +988,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "Setting.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Models\\Setting.cs",
               "RelativeDocumentMoniker": "Nest1\\Models\\Setting.cs",
@@ -963,7 +1012,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "MailService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Services\\MailService.cs",
               "RelativeDocumentMoniker": "Nest1\\Services\\MailService.cs",
@@ -972,18 +1021,6 @@
               "ViewState": "AgIAABUAAAAAAAAAAAAowCwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T17:59:51.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Program.cs",
-              "RelativeDocumentMoniker": "Nest1\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Program.cs",
-              "RelativeToolTip": "Nest1\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAnwCEAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T11:29:54.644Z"
             },
             {
               "$type": "Document",
@@ -999,7 +1036,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "TagProduct.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Models\\TagProduct.cs",
               "RelativeDocumentMoniker": "Nest1\\Models\\TagProduct.cs",
@@ -1023,7 +1060,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Nest1\\Models\\AppUser.cs",
@@ -1071,7 +1108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "CartVm.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\ViewModels\\Basket\\CartVm.cs",
               "RelativeDocumentMoniker": "Nest1\\ViewModels\\Basket\\CartVm.cs",
@@ -1080,18 +1117,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T18:33:18.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "Nest1\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "Nest1\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAjwEsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T18:25:24.871Z"
             },
             {
               "$type": "Document",
@@ -1104,18 +1129,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T15:17:46.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "UpdateProduct.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\ViewModels\\UpdateProduct.cs",
-              "RelativeDocumentMoniker": "Nest1\\Areas\\ViewModels\\UpdateProduct.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\nest2\\Nest1\\Areas\\ViewModels\\UpdateProduct.cs",
-              "RelativeToolTip": "Nest1\\Areas\\ViewModels\\UpdateProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T15:19:45.367Z"
             },
             {
               "$type": "Document",

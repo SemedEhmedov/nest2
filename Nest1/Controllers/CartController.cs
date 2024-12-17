@@ -90,6 +90,11 @@ namespace Nest1.Controllers
         {
             var json = JsonConvert.DeserializeObject<CookieItemVm>(Request.Cookies["basket"]);
             return View();
-        } 
+        }
+        public IActionResult Refresh()
+        {
+            return ViewComponent("Basket");
+        }
+
     }
 }
