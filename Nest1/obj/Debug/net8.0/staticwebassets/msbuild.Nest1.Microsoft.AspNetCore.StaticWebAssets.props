@@ -40194,6 +40194,60 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\0de82842-fbee-424e-83f4-960e4e5c00f8promo-banner-small.jpg0de82842-fbee-424e-83f4-960e4e5c00f8promo-banner-small.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\10698c87-e704-4911-a5bd-68c186b4b939cody-lannom-G95AReIh_Ko-unsplash.jpeg10698c87-e704-4911-a5bd-68c186b4b939cody-lannom-G95AReIh_Ko-unsplash.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/10698c87-e704-4911-a5bd-68c186b4b939cody-lannom-G95AReIh_Ko-unsplash.jpeg10698c87-e704-4911-a5bd-68c186b4b939cody-lannom-G95AReIh_Ko-unsplash.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>mo64r4vnjs</Fingerprint>
+      <Integrity>KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\10698c87-e704-4911-a5bd-68c186b4b939cody-lannom-G95AReIh_Ko-unsplash.jpeg10698c87-e704-4911-a5bd-68c186b4b939cody-lannom-G95AReIh_Ko-unsplash.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\1a2ffdf1-d929-488b-a67f-a523cfc48128pim-chu-z6NZ76_UTDI-unsplash.jpeg1a2ffdf1-d929-488b-a67f-a523cfc48128pim-chu-z6NZ76_UTDI-unsplash.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/1a2ffdf1-d929-488b-a67f-a523cfc48128pim-chu-z6NZ76_UTDI-unsplash.jpeg1a2ffdf1-d929-488b-a67f-a523cfc48128pim-chu-z6NZ76_UTDI-unsplash.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wmr8kwesfk</Fingerprint>
+      <Integrity>6DEMbo9rmOAIS8nu4AP+aMqIuGm9D4Pw2M2Pb5i/ZeM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\1a2ffdf1-d929-488b-a67f-a523cfc48128pim-chu-z6NZ76_UTDI-unsplash.jpeg1a2ffdf1-d929-488b-a67f-a523cfc48128pim-chu-z6NZ76_UTDI-unsplash.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\1e3fa029-ebcb-4f9d-acf9-c357627d07a2servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg1e3fa029-ebcb-4f9d-acf9-c357627d07a2servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/1e3fa029-ebcb-4f9d-acf9-c357627d07a2servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg1e3fa029-ebcb-4f9d-acf9-c357627d07a2servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>l21469tfj8</Fingerprint>
+      <Integrity>kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\1e3fa029-ebcb-4f9d-acf9-c357627d07a2servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg1e3fa029-ebcb-4f9d-acf9-c357627d07a2servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\23ecba23-5e0a-4b47-9c6b-936c458a9e5apromo-banner-contained.jpg23ecba23-5e0a-4b47-9c6b-936c458a9e5apromo-banner-contained.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Nest1</SourceId>
@@ -40211,6 +40265,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\23ecba23-5e0a-4b47-9c6b-936c458a9e5apromo-banner-contained.jpg23ecba23-5e0a-4b47-9c6b-936c458a9e5apromo-banner-contained.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\2db42e68-617e-4fbd-bd80-f25a93abc798servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg2db42e68-617e-4fbd-bd80-f25a93abc798servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/2db42e68-617e-4fbd-bd80-f25a93abc798servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg2db42e68-617e-4fbd-bd80-f25a93abc798servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>l21469tfj8</Fingerprint>
+      <Integrity>kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\2db42e68-617e-4fbd-bd80-f25a93abc798servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg2db42e68-617e-4fbd-bd80-f25a93abc798servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\2e269773-afa4-4f91-ad65-85f11bfde497promo-banner-full.jpg2e269773-afa4-4f91-ad65-85f11bfde497promo-banner-full.jpg'))">
       <SourceType>Package</SourceType>
@@ -40284,6 +40356,60 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\65da6943-569a-4469-bda5-0f6efcf3e6d6promo-banner-mid.jpg65da6943-569a-4469-bda5-0f6efcf3e6d6promo-banner-mid.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\6dd9525f-41e6-45d8-8ef4-f2c48e1e567dservicescape-incorporated-_48JSlVLX6g-unsplash.jpeg6dd9525f-41e6-45d8-8ef4-f2c48e1e567dservicescape-incorporated-_48JSlVLX6g-unsplash.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/6dd9525f-41e6-45d8-8ef4-f2c48e1e567dservicescape-incorporated-_48JSlVLX6g-unsplash.jpeg6dd9525f-41e6-45d8-8ef4-f2c48e1e567dservicescape-incorporated-_48JSlVLX6g-unsplash.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>l21469tfj8</Fingerprint>
+      <Integrity>kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\6dd9525f-41e6-45d8-8ef4-f2c48e1e567dservicescape-incorporated-_48JSlVLX6g-unsplash.jpeg6dd9525f-41e6-45d8-8ef4-f2c48e1e567dservicescape-incorporated-_48JSlVLX6g-unsplash.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\7433b892-c4ca-4305-a148-bc0e006834a6retail-shop-owner-mask-social-distancing-shopping.jpg7433b892-c4ca-4305-a148-bc0e006834a6retail-shop-owner-mask-social-distancing-shopping.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/7433b892-c4ca-4305-a148-bc0e006834a6retail-shop-owner-mask-social-distancing-shopping.jpg7433b892-c4ca-4305-a148-bc0e006834a6retail-shop-owner-mask-social-distancing-shopping.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>monvjre8is</Fingerprint>
+      <Integrity>pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\7433b892-c4ca-4305-a148-bc0e006834a6retail-shop-owner-mask-social-distancing-shopping.jpg7433b892-c4ca-4305-a148-bc0e006834a6retail-shop-owner-mask-social-distancing-shopping.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\8370bbd5-bd63-4481-8649-a911a6bbb7a8pim-chu-z6NZ76_UTDI-unsplash.jpeg8370bbd5-bd63-4481-8649-a911a6bbb7a8pim-chu-z6NZ76_UTDI-unsplash.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/8370bbd5-bd63-4481-8649-a911a6bbb7a8pim-chu-z6NZ76_UTDI-unsplash.jpeg8370bbd5-bd63-4481-8649-a911a6bbb7a8pim-chu-z6NZ76_UTDI-unsplash.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wmr8kwesfk</Fingerprint>
+      <Integrity>6DEMbo9rmOAIS8nu4AP+aMqIuGm9D4Pw2M2Pb5i/ZeM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\8370bbd5-bd63-4481-8649-a911a6bbb7a8pim-chu-z6NZ76_UTDI-unsplash.jpeg8370bbd5-bd63-4481-8649-a911a6bbb7a8pim-chu-z6NZ76_UTDI-unsplash.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\884ebe00-446c-4088-99ec-7136f86a58e6promo-banner-mid.jpg884ebe00-446c-4088-99ec-7136f86a58e6promo-banner-mid.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Nest1</SourceId>
@@ -40320,6 +40446,96 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\8a97f7cd-0e16-4e5a-adb2-53a5b523538eretail-shop-owner-mask-social-distancing-shopping.jpg8a97f7cd-0e16-4e5a-adb2-53a5b523538eretail-shop-owner-mask-social-distancing-shopping.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\8e68eba9-2ab4-4ec8-99fd-b341f92afa6bcody-lannom-G95AReIh_Ko-unsplash.jpeg8e68eba9-2ab4-4ec8-99fd-b341f92afa6bcody-lannom-G95AReIh_Ko-unsplash.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/8e68eba9-2ab4-4ec8-99fd-b341f92afa6bcody-lannom-G95AReIh_Ko-unsplash.jpeg8e68eba9-2ab4-4ec8-99fd-b341f92afa6bcody-lannom-G95AReIh_Ko-unsplash.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>mo64r4vnjs</Fingerprint>
+      <Integrity>KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\8e68eba9-2ab4-4ec8-99fd-b341f92afa6bcody-lannom-G95AReIh_Ko-unsplash.jpeg8e68eba9-2ab4-4ec8-99fd-b341f92afa6bcody-lannom-G95AReIh_Ko-unsplash.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\8f868b1e-a111-412c-b6cb-5aeda87a2497retail-shop-owner-mask-social-distancing-shopping.jpg8f868b1e-a111-412c-b6cb-5aeda87a2497retail-shop-owner-mask-social-distancing-shopping.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/8f868b1e-a111-412c-b6cb-5aeda87a2497retail-shop-owner-mask-social-distancing-shopping.jpg8f868b1e-a111-412c-b6cb-5aeda87a2497retail-shop-owner-mask-social-distancing-shopping.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>monvjre8is</Fingerprint>
+      <Integrity>pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\8f868b1e-a111-412c-b6cb-5aeda87a2497retail-shop-owner-mask-social-distancing-shopping.jpg8f868b1e-a111-412c-b6cb-5aeda87a2497retail-shop-owner-mask-social-distancing-shopping.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\903a906c-ac54-4e35-ab25-30fbac46fc92retail-shop-owner-mask-social-distancing-shopping.jpg903a906c-ac54-4e35-ab25-30fbac46fc92retail-shop-owner-mask-social-distancing-shopping.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/903a906c-ac54-4e35-ab25-30fbac46fc92retail-shop-owner-mask-social-distancing-shopping.jpg903a906c-ac54-4e35-ab25-30fbac46fc92retail-shop-owner-mask-social-distancing-shopping.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>monvjre8is</Fingerprint>
+      <Integrity>pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\903a906c-ac54-4e35-ab25-30fbac46fc92retail-shop-owner-mask-social-distancing-shopping.jpg903a906c-ac54-4e35-ab25-30fbac46fc92retail-shop-owner-mask-social-distancing-shopping.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\924d8802-ea74-4bda-8c42-208d38c31061retail-shop-owner-mask-social-distancing-shopping.jpg924d8802-ea74-4bda-8c42-208d38c31061retail-shop-owner-mask-social-distancing-shopping.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/924d8802-ea74-4bda-8c42-208d38c31061retail-shop-owner-mask-social-distancing-shopping.jpg924d8802-ea74-4bda-8c42-208d38c31061retail-shop-owner-mask-social-distancing-shopping.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>monvjre8is</Fingerprint>
+      <Integrity>pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\924d8802-ea74-4bda-8c42-208d38c31061retail-shop-owner-mask-social-distancing-shopping.jpg924d8802-ea74-4bda-8c42-208d38c31061retail-shop-owner-mask-social-distancing-shopping.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\95e47c98-49ba-44d0-84ac-05d18b5daf6dcody-lannom-G95AReIh_Ko-unsplash.jpeg95e47c98-49ba-44d0-84ac-05d18b5daf6dcody-lannom-G95AReIh_Ko-unsplash.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/95e47c98-49ba-44d0-84ac-05d18b5daf6dcody-lannom-G95AReIh_Ko-unsplash.jpeg95e47c98-49ba-44d0-84ac-05d18b5daf6dcody-lannom-G95AReIh_Ko-unsplash.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>mo64r4vnjs</Fingerprint>
+      <Integrity>KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\95e47c98-49ba-44d0-84ac-05d18b5daf6dcody-lannom-G95AReIh_Ko-unsplash.jpeg95e47c98-49ba-44d0-84ac-05d18b5daf6dcody-lannom-G95AReIh_Ko-unsplash.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\9639bcc7-e34e-4289-93cc-08be8d1d9270servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg9639bcc7-e34e-4289-93cc-08be8d1d9270servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>Nest1</SourceId>
@@ -40337,6 +40553,42 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\9639bcc7-e34e-4289-93cc-08be8d1d9270servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg9639bcc7-e34e-4289-93cc-08be8d1d9270servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\97943261-db75-498c-93bb-a2866778b3f6retail-shop-owner-mask-social-distancing-shopping.jpg97943261-db75-498c-93bb-a2866778b3f6retail-shop-owner-mask-social-distancing-shopping.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/97943261-db75-498c-93bb-a2866778b3f6retail-shop-owner-mask-social-distancing-shopping.jpg97943261-db75-498c-93bb-a2866778b3f6retail-shop-owner-mask-social-distancing-shopping.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>monvjre8is</Fingerprint>
+      <Integrity>pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\97943261-db75-498c-93bb-a2866778b3f6retail-shop-owner-mask-social-distancing-shopping.jpg97943261-db75-498c-93bb-a2866778b3f6retail-shop-owner-mask-social-distancing-shopping.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\a6b54d90-7545-4c13-90d1-517440f64048cody-lannom-G95AReIh_Ko-unsplash.jpega6b54d90-7545-4c13-90d1-517440f64048cody-lannom-G95AReIh_Ko-unsplash.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/a6b54d90-7545-4c13-90d1-517440f64048cody-lannom-G95AReIh_Ko-unsplash.jpega6b54d90-7545-4c13-90d1-517440f64048cody-lannom-G95AReIh_Ko-unsplash.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>mo64r4vnjs</Fingerprint>
+      <Integrity>KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\a6b54d90-7545-4c13-90d1-517440f64048cody-lannom-G95AReIh_Ko-unsplash.jpega6b54d90-7545-4c13-90d1-517440f64048cody-lannom-G95AReIh_Ko-unsplash.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\b2da09e3-7018-4c3d-b973-bbc3b92f0a33promo-banner-contained.jpgb2da09e3-7018-4c3d-b973-bbc3b92f0a33promo-banner-contained.jpg'))">
       <SourceType>Package</SourceType>
@@ -40374,6 +40626,78 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\b783b20c-e1a7-4f10-84d4-d35767cdfc25servicescape-incorporated-_48JSlVLX6g-unsplash.jpegb783b20c-e1a7-4f10-84d4-d35767cdfc25servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\bf922215-3e8e-4542-8093-c683f856f83apim-chu-z6NZ76_UTDI-unsplash.jpegbf922215-3e8e-4542-8093-c683f856f83apim-chu-z6NZ76_UTDI-unsplash.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/bf922215-3e8e-4542-8093-c683f856f83apim-chu-z6NZ76_UTDI-unsplash.jpegbf922215-3e8e-4542-8093-c683f856f83apim-chu-z6NZ76_UTDI-unsplash.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wmr8kwesfk</Fingerprint>
+      <Integrity>6DEMbo9rmOAIS8nu4AP+aMqIuGm9D4Pw2M2Pb5i/ZeM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\bf922215-3e8e-4542-8093-c683f856f83apim-chu-z6NZ76_UTDI-unsplash.jpegbf922215-3e8e-4542-8093-c683f856f83apim-chu-z6NZ76_UTDI-unsplash.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\cf94b164-6caa-4182-9ead-1076ecf8d6c9retail-shop-owner-mask-social-distancing-shopping.jpgcf94b164-6caa-4182-9ead-1076ecf8d6c9retail-shop-owner-mask-social-distancing-shopping.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/cf94b164-6caa-4182-9ead-1076ecf8d6c9retail-shop-owner-mask-social-distancing-shopping.jpgcf94b164-6caa-4182-9ead-1076ecf8d6c9retail-shop-owner-mask-social-distancing-shopping.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>monvjre8is</Fingerprint>
+      <Integrity>pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\cf94b164-6caa-4182-9ead-1076ecf8d6c9retail-shop-owner-mask-social-distancing-shopping.jpgcf94b164-6caa-4182-9ead-1076ecf8d6c9retail-shop-owner-mask-social-distancing-shopping.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\d0a18b19-82e7-42d6-9ae9-a2410ede1ad0servicescape-incorporated-_48JSlVLX6g-unsplash.jpegd0a18b19-82e7-42d6-9ae9-a2410ede1ad0servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/d0a18b19-82e7-42d6-9ae9-a2410ede1ad0servicescape-incorporated-_48JSlVLX6g-unsplash.jpegd0a18b19-82e7-42d6-9ae9-a2410ede1ad0servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>l21469tfj8</Fingerprint>
+      <Integrity>kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\d0a18b19-82e7-42d6-9ae9-a2410ede1ad0servicescape-incorporated-_48JSlVLX6g-unsplash.jpegd0a18b19-82e7-42d6-9ae9-a2410ede1ad0servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\d3005f45-4953-46a6-8143-0c1fe34ef233pim-chu-z6NZ76_UTDI-unsplash.jpegd3005f45-4953-46a6-8143-0c1fe34ef233pim-chu-z6NZ76_UTDI-unsplash.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/d3005f45-4953-46a6-8143-0c1fe34ef233pim-chu-z6NZ76_UTDI-unsplash.jpegd3005f45-4953-46a6-8143-0c1fe34ef233pim-chu-z6NZ76_UTDI-unsplash.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wmr8kwesfk</Fingerprint>
+      <Integrity>6DEMbo9rmOAIS8nu4AP+aMqIuGm9D4Pw2M2Pb5i/ZeM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\d3005f45-4953-46a6-8143-0c1fe34ef233pim-chu-z6NZ76_UTDI-unsplash.jpegd3005f45-4953-46a6-8143-0c1fe34ef233pim-chu-z6NZ76_UTDI-unsplash.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\d4f43f08-89d0-4ec5-93db-1ece8215f5e2promo-banner-mid.jpgd4f43f08-89d0-4ec5-93db-1ece8215f5e2promo-banner-mid.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Nest1</SourceId>
@@ -40392,6 +40716,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\d4f43f08-89d0-4ec5-93db-1ece8215f5e2promo-banner-mid.jpgd4f43f08-89d0-4ec5-93db-1ece8215f5e2promo-banner-mid.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\f5e52864-ad28-46f1-b520-2ee910ba2ca9servicescape-incorporated-_48JSlVLX6g-unsplash.jpegf5e52864-ad28-46f1-b520-2ee910ba2ca9servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/f5e52864-ad28-46f1-b520-2ee910ba2ca9servicescape-incorporated-_48JSlVLX6g-unsplash.jpegf5e52864-ad28-46f1-b520-2ee910ba2ca9servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>l21469tfj8</Fingerprint>
+      <Integrity>kwfGm1EsEpPstlNeRTuZK/aVT0KLhRMnbOv0GQeTbsc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\f5e52864-ad28-46f1-b520-2ee910ba2ca9servicescape-incorporated-_48JSlVLX6g-unsplash.jpegf5e52864-ad28-46f1-b520-2ee910ba2ca9servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\f70acfab-194a-45b7-b4f0-f99fdd937488retail-shop-owner-mask-social-distancing-shopping.jpgf70acfab-194a-45b7-b4f0-f99fdd937488retail-shop-owner-mask-social-distancing-shopping.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Nest1</SourceId>
@@ -40409,6 +40751,42 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\f70acfab-194a-45b7-b4f0-f99fdd937488retail-shop-owner-mask-social-distancing-shopping.jpgf70acfab-194a-45b7-b4f0-f99fdd937488retail-shop-owner-mask-social-distancing-shopping.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\fd3a14de-1953-4080-8109-7845283b4855retail-shop-owner-mask-social-distancing-shopping.jpgfd3a14de-1953-4080-8109-7845283b4855retail-shop-owner-mask-social-distancing-shopping.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/fd3a14de-1953-4080-8109-7845283b4855retail-shop-owner-mask-social-distancing-shopping.jpgfd3a14de-1953-4080-8109-7845283b4855retail-shop-owner-mask-social-distancing-shopping.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>monvjre8is</Fingerprint>
+      <Integrity>pqizFy4r9h1YGwmTSF8DeXke4wpMPziuhvJ6MluiuEc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\fd3a14de-1953-4080-8109-7845283b4855retail-shop-owner-mask-social-distancing-shopping.jpgfd3a14de-1953-4080-8109-7845283b4855retail-shop-owner-mask-social-distancing-shopping.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\fdff5957-b977-4602-924f-ebec80e36b35cody-lannom-G95AReIh_Ko-unsplash.jpegfdff5957-b977-4602-924f-ebec80e36b35cody-lannom-G95AReIh_Ko-unsplash.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Nest1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Nest1</BasePath>
+      <RelativePath>Upload/Product/fdff5957-b977-4602-924f-ebec80e36b35cody-lannom-G95AReIh_Ko-unsplash.jpegfdff5957-b977-4602-924f-ebec80e36b35cody-lannom-G95AReIh_Ko-unsplash.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>mo64r4vnjs</Fingerprint>
+      <Integrity>KsrQ6tXdh+PPFFt31ZMsYkQj9VJ+M/S1lEGfbzuEYOI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Product\fdff5957-b977-4602-924f-ebec80e36b35cody-lannom-G95AReIh_Ko-unsplash.jpegfdff5957-b977-4602-924f-ebec80e36b35cody-lannom-G95AReIh_Ko-unsplash.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>
