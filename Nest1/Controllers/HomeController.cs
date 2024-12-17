@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Nest1.DAL;
 using Nest1.Models;
 using System.Diagnostics;
@@ -12,9 +13,10 @@ namespace Nest1.Controllers
         {
             context = appDBContext;
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            List<Product> products = await context.Products.Include(x=>x.ProductImages).Include(x=>x.TagProducts).ThenInclude(x=>x.Tag).Include(x=>x.Category).ToListAsync();
+            return View(products);
         }
     }
 }

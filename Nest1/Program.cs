@@ -31,6 +31,7 @@ namespace Nest1
             {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("default"));
             });
+            builder.Services.AddScoped<LayoutService>();
             var app = builder.Build();
 
 

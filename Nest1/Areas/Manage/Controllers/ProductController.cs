@@ -146,7 +146,7 @@ namespace Nest1.Areas.Manage.Controllers
             oldproduct.ProductImages.FirstOrDefault(x=>x.Primary).ImgUrl = product.File.Upload(env.WebRootPath, "Upload\\Product");
             foreach(var item in oldproduct.ProductImages.FirstOrDefault(x => !x.Primary).ImgUrl)
             {
-                item = product.Images.Upload(env.WebRootPath, "Upload\\Product");
+                //item = product.Images.Upload(env.WebRootPath, "Upload\\Product");
             }
             context.SaveChanges();
             return RedirectToAction(nameof(Index));
