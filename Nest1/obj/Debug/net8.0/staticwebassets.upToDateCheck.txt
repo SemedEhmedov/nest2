@@ -8,6 +8,7 @@ wwwroot\assets\css\plugins\perfect-scrollbar.css
 wwwroot\assets\css\plugins\select2.min.css
 wwwroot\assets\css\plugins\slick.css
 wwwroot\assets\css\plugins\slider-range.css
+wwwroot\assets\css\plugins\tongue.css
 wwwroot\assets\css\vendors\bootstrap.min.css
 wwwroot\assets\css\vendors\bootstrap.min.css.map
 wwwroot\assets\css\vendors\bootstrap.rtl.min.css

@@ -12,5 +12,6 @@ namespace Nest1.Areas.ViewModels
         public List<int>? TagIds { get; set; }
         [NotMapped]
         public IFormFile File { get; set; }
+        public List<IFormFile> Images { get; set; }
     }
 }

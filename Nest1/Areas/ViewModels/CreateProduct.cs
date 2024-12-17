@@ -13,5 +13,6 @@ namespace Nest1.Areas.ViewModels
         public string? ImgUrl { get; set; }
         [NotMapped]
         public IFormFile File { get; set; }
+        public List<IFormFile> Images { get; set; }
     }
 }

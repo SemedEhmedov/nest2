@@ -15,6 +15,7 @@ namespace Nest1.DAL
         public DbSet<Category> Categories { get; set; }
         public DbSet<Tag> Tags { get; set; }
         public DbSet<TagProduct> TagProducts { get; set; }
+        public DbSet<ProductImage> ProductImages { get; set; }
     }
 
 }
