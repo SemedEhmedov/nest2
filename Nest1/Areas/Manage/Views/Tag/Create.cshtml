@@ -1,0 +1,25 @@
+﻿@model CreateTag
+
+<div class="container">
+
+
+
+
+    <form asp-action="Create" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+
+            <label asp-for="Name">Name</label>
+            <input class="form-control" asp-for="Name" placeholder="Enter Title">
+            <span asp-validation-for="Name" style="color:red"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+
+
+
+
+
+</div>
+

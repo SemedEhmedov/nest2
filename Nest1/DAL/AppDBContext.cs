@@ -17,6 +17,7 @@ namespace Nest1.DAL
         public DbSet<TagProduct> TagProducts { get; set; }
         public DbSet<ProductImage> ProductImages { get; set; }
         public DbSet<Setting> Settings { get; set; }
+        public DbSet<Slider> Sliders { get; set; }
     }
 
 }

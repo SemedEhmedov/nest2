@@ -921,8 +921,9 @@
             }
         }
         var form = document.querySelector('.custom-search');
-
-        form.addEventListener("keyup", function (e) {
+        var search = document.getElementById('search-value')
+        search.addEventListener("keyup", async function (e) {
+            e.preventDefault();
         var search = document.getElementById('search-value').value
             await FilterSearchTerm(search);
         })
